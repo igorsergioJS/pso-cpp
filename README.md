@@ -42,6 +42,6 @@ Para compilar e executar o código em um ambiente de desenvolvimento C++, siga o
 
 
 ## Exemplo de Saída
-     ```bash
-      Best Position: (x, y)
-      Best Score (w15): valor_otimizado
+  ```bash
+  Best Position: (x, y)
+   Best Score (w15): valor_otimizado
